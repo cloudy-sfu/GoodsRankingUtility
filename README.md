@@ -1,6 +1,6 @@
 # GoodsRankingUtility
 
-A tool to solve Knapsack problem with branch & bound algorithm
+
 
 ## Introduction
 
