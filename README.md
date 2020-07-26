@@ -1,6 +1,6 @@
 # GoodsRankingUtility
 
-![Generic Badge](https://img.shields.io/badge/languages-zh__CN-blue)
+![Generic Badge](https://img.shields.io/badge/docs-zh__CN-blue)
 
 This program is an instance of solving Knapsack problem.
 
