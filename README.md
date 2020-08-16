@@ -1,6 +1,7 @@
 # GoodsRankingUtility
 
-![Generic Badge](https://img.shields.io/badge/docs-zh__CN-blue)
+![Generic Badge](https://img.shields.io/badge/language-zh_CN-green)
+![Generic Badge](https://img.shields.io/badge/dependencies-MATLAB_Runtime-blue)
 
 This program is an instance of solving Knapsack problem.
 
@@ -18,7 +19,9 @@ Finally, set the weights of neccessity, popularity and urgency, which means how 
 
 ## Install
 
-The release is compiled with MATLAB R2020a, and is a standalone app. You can click it to run.
+If you have MATLAB runtime or the full software, you can click it to run. Otherwise, it will autometically download a MATLAB runtime.
+
+Reference: [MATLAB Runtime](https://www.mathworks.com/products/compiler/matlab-runtime.html)
 
 ## Known Issues
 
