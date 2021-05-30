@@ -1,6 +1,5 @@
 # Commodity Ranking by Utility
 
-![Generic Badge](https://img.shields.io/badge/language-zh_CN-green)
 ![Generic Badge](https://img.shields.io/badge/dependencies-MATLAB_Runtime-blue)
 
 This program is an instance of solving Knapsack problem.
