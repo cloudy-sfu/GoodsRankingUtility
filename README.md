@@ -22,8 +22,4 @@ If you have MATLAB runtime or the full software, you can click it to run. Otherw
 
 Reference: [MATLAB Runtime](https://www.mathworks.com/products/compiler/matlab-runtime.html)
 
-## Known Issues
-
-1. The GUI may be confusing. You should select products in the first table, but set the budget in the second form.
-2. If you want to add/remove products, please delete all the budget rules first.
-3. You can't change the name of the `.exe` file, otherwise it may not start to run.
+![image-20210705112804259](C:\Users\cloudy\AppData\Roaming\Typora\typora-user-images\image-20210705112804259.png)
